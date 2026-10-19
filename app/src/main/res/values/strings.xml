@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GameCore Pro</string>
+    <string name="game_space_title">Game Space</string>
+    <string name="hud_service_channel_name">Gaming HUD Overlay</string>
+    <string name="hud_service_channel_desc">Active in-game performance HUD and Game Space overlay</string>
+    <string name="hud_notification_title">GameCore Pro Gaming Space Active</string>
+    <string name="hud_notification_text">HUD is running over games. Tap to configure or dismiss.</string>
+    <string name="hud_notification_stop">Stop HUD</string>
+    
+    <!-- Navigation & Sections -->
+    <string name="tab_games">Game Hub</string>
+    <string name="tab_hud">Floating HUD</string>
+    <string name="tab_vision">Hunt Vision</string>
+    <string name="tab_aim">Aim Tools</string>
+    <string name="tab_control">Controls &amp; DND</string>
+    <string name="tab_audio">Audio Tools</string>
+</resources>

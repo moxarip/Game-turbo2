@@ -1,0 +1,6 @@
+{
+  "name": "GameCore Pro",
+  "description": "REDMAGIC-inspired Game Space center for Snapdragon 888 and Android 14 with floating Gaming HUD, Hunt Vision screen filters, Aim Tools crosshairs, touch latency testing, and game profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
